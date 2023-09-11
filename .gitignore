@@ -6,4 +6,9 @@ watchbase_all_optimized_original/
 scripts/
 datasets.zip
 watch_models.zip
+BrandsOver100_script.ipynb
+scrape_evidence.docx
+script_oversampling_augmentation_script.ipynb
+watchbase_all_optimized.csv
+image_downloader_script.py
 
